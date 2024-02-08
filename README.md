@@ -132,68 +132,6 @@ Using logical programs, it will recommend
 3. Visual Studio Code **(Prefered Code Editor)** https://code.visualstudio.com/Download
 4. Visual Studio build tools for C++ https://aka.ms/vs/17/release/vs_BuildTools.exe
 
-## Setup & Installation 👀
-
-To run this project, perform the following tasks 😨
-
-Download the code file manually or via git
-
-Create a virtual environment and activate it **(recommended)**
-
-Open your command prompt and change your project directory to `AI-Resume-Analyzer` and run the following command
-
-```bash
-python -m venv venvapp
-
-cd venvapp/Scripts
-
-activate
-
-```
-
-Downloading packages from `requirements.txt` inside `App` folder
-
-```bash
-cd../..
-
-cd App
-
-pip install -r requirements.txt
-
-python -m spacy download en_core_web_sm
-
-```
-
-After installation is finished create a Database `cv`
-
-And change user credentials inside `App.py`
-
-Go to `venvapp\Lib\site-packages\pyresparser` folder
-
-And replace the `resume_parser.py` with `resume_parser.py`
-
-which was provided by me inside `pyresparser` folder
-
-`Congratulations 🥳😱 your set-up 👆 and installation is finished 😵🤯`
-
-I hope that your `venvapp` is activated and working directory is inside `App`
-
-Run the `App.py` file using
-
-```bash
-streamlit run App.py
-
-```
-
-## Usage
-
-- After the setup it will do stuff's automatically
-- You just need to upload a resume and see it's magic
-- Try first with my resume uploaded in `Uploaded_Resumes` folder
-- Admin userid is `admin` and password is `admin@resume-analyzer`
-
-<!-- Roadmap -->
-
 ## Roadmap 🛵
 
 - [x] Predict user experience level.
@@ -203,13 +141,7 @@ streamlit run App.py
 - [x] Fetch more details from users resume.
 - [ ] View individual user details.
 
-## Preview 👽
-
-### Client Side
-
 **Main Screen**
-
-
 ![Main Screen](https://github.com/deepthi16032002/RESUME-ANALYZER-USING-NLP/assets/134869226/2bc59284-d4f9-450a-b0e3-ad0388227d43)
 
 ### Built with 🤍 AI RESUME ANALYZER by DEEPTHI
