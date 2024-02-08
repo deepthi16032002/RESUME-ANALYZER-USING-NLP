@@ -1,12 +1,9 @@
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
- 
-  
   <P>
     <small align="justify">
-      Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepthi</a> through 
+      Built with 🤍 by Deepthi
       
      </small>
   </p>
@@ -140,10 +137,6 @@ Using logical programs, it will recommend
 To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
-
-```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
-```
 
 Create a virtual environment and activate it **(recommended)**
 
