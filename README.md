@@ -5,7 +5,7 @@
     <small align="justify">
       Built with 🤍 by Deepthi
       
-     </small>
+     
   </p>
   
 
