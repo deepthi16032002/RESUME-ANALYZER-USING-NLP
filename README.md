@@ -209,6 +209,7 @@ streamlit run App.py
 
 **Main Screen**
 
-screenshots\user\Screenshot (156).png
+
+![Main Screen](https://github.com/deepthi16032002/RESUME-ANALYZER-USING-NLP/assets/134869226/2bc59284-d4f9-450a-b0e3-ad0388227d43)
 
 ### Built with 🤍 AI RESUME ANALYZER by DEEPTHI
