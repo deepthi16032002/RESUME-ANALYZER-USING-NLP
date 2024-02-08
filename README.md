@@ -1,10 +1,9 @@
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
-  <!-- Badges -->
+ 
   
-  
-  
+  <P>
     <small align="justify">
       Built with 🤍 by 
       <a href="https://dnoobnerd.netlify.app/">Deepthi</a> through 
@@ -12,7 +11,7 @@
      </small>
   </p>
   
-  </small>
+
 </div><br/><br/>
 
 ## About the Project 🥱
@@ -175,7 +174,6 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database `cv`
 
 And change user credentials inside `App.py`
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
 
 Go to `venvapp\Lib\site-packages\pyresparser` folder
 
